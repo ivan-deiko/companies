@@ -15,11 +15,11 @@
       "logo": "https://seekvectorlogo.com/wp-content/uploads/2017/12/microsoft-vector-logo-small.png"
     },
      {
-      "companyName": "Alphabet Inc",
-      "capital": "1,020 bln",
+      "companyName": "Alibaba Group",
+      "capital": "610.13 bln",
       "industry": ["Internet"],
-      "products": [],
-      "logo": "https://wp.fxssi.com/wp-content/uploads/2018/03/alphabet-logo-1.png"
+      "products": ["E-commerce", "online auction hosting", "mobile commerce"],
+      "logo": "https://wp.fxssi.com/wp-content/uploads/2018/04/alibab-logo.png"
     },
   ]
 }
