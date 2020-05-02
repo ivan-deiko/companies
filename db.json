@@ -1,0 +1,14 @@
+[
+  {
+    "companyName": "Apple inc.",
+    "capital": "1,397 bln",
+    "idustry": ["electronics", "information technology"],
+    "products": ["personal computer", "tablets", "mobile phones"]
+  },
+  {
+    "companyName": "Microsoft",
+    "capital": "$1,274 bln",
+    "idustry": ["software development."],
+    "products": ["Microsoft Office", "Microsoft Windows", "Xbox"]
+  }
+]
