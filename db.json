@@ -20,6 +20,20 @@
       "industry": ["Internet"],
       "products": ["E-commerce", "online auction hosting", "mobile commerce"],
       "logo": "https://wp.fxssi.com/wp-content/uploads/2018/04/alibab-logo.png"
+    },
+     {
+      "companyName": "Tencent",
+      "capital": "492.9 bln.",
+      "industry": ["Internet"],
+      "products": ["Social networking", "instant messaging", "mass media"],
+      "logo": "https://wp.fxssi.com/wp-content/uploads/2018/04/Tencent-logo.png"
+    },
+    {
+      "companyName": "Johnson & Johnson",
+      "capital": "392.6 bln.",
+      "industry": ["pharmaceuticals"],
+      "products": ["producing drugs"],
+      "logo": "https://wp.fxssi.com/wp-content/uploads/2018/03/jandj-logo.png"
     }
   ]
 }
