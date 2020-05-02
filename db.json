@@ -5,12 +5,14 @@
       "capital": "1,397 bln",
       "industry": ["electronics", "information technology"],
       "products": ["personal computer", "tablets", "mobile phones"]
+      "logo": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201809240700"
     },
     {
       "companyName": "Microsoft",
       "capital": "$1,274 bln",
       "industry": ["software development."],
       "products": ["Microsoft Office", "Microsoft Windows", "Xbox"]
+      "logo": "https://seekvectorlogo.com/wp-content/uploads/2017/12/microsoft-vector-logo-small.png"
     }
   ]
 }
