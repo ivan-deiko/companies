@@ -1,7 +1,7 @@
 {
  "companies": [
     {
-      "companyName": "Apple inc.",
+      "companyName": "Apple inc",
       "capital": "1,397 bln",
       "industry": ["electronics", "information technology"],
       "products": ["personal computer", "tablets", "mobile phones"],
@@ -9,10 +9,17 @@
     },
     {
       "companyName": "Microsoft",
-      "capital": "$1,274 bln",
+      "capital": "1,274 bln",
       "industry": ["software development."],
       "products": ["Microsoft Office", "Microsoft Windows", "Xbox"],
       "logo": "https://seekvectorlogo.com/wp-content/uploads/2017/12/microsoft-vector-logo-small.png"
-    }
+    },
+     {
+      "companyName": "Alphabet Inc",
+      "capital": "1,020 bln",
+      "industry": ["Internet"],
+      "products": [],
+      "logo": "https://wp.fxssi.com/wp-content/uploads/2018/03/alphabet-logo-1.png"
+    },
   ]
 }
